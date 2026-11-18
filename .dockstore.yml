@@ -1,0 +1,5 @@
+version: 1.2
+workflows:
+  - name: MujPrvniWorkflow
+    subclass: WDL
+    primaryDescriptorPath: /moje-prvni-wdl.wdl
